@@ -1,0 +1,11 @@
+{
+  "description": "YOUR DESCRIPTION GOES HERE",
+  "repo": "https://github.com/mindofemanizer",
+  "owner": {
+    "username": "mindofemanizer",
+    "email": "spasidanenter@gmail.com"
+  },
+  "record": {
+    "CNAME": "mindofemanizer.github.io"
+  }
+}
